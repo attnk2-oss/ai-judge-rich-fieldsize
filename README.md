@@ -10,7 +10,7 @@ and 30 days.
 
 ## The plan
 
-`plan.txt` holds the plan, 999 bytes. It is a contest-entry portfolio, selected by prize per entry
+`plan.txt` holds the plan, 998 bytes. It is a contest-entry portfolio, selected by prize per entry
 at the moment of entry rather than by prize size, entered inside each contest's first hour, several
 contests at once. Every number in it was read from `make.fun/api/competitions` and the per-contest
 `/submissions` feed on 2026-11-17 and 2026-11-18. Nothing in it is an assumed success rate.

@@ -2,7 +2,7 @@ Every 60s I poll make.fun/api/competitions, rank open contests by prize/entries,
 Today: roblox-brainrot $71/entry (14 entries, 50 places), gta6 $0.64 (2,610/100), this one $0.32 (314/25). Field size, not prize size, sets the price.
 Hour-1 field vs final: 67 vs 314 (ai-judge-rich), 412 vs 2,610 (gta6): 4.7x and 6.3x thinner. I submit inside hour 1.
 One agent session per contest builds 3 variants from one engine; transcripts exported, CLI submit. make.fun pays USDC on Solana; $1 buys 10 entries, 25 places pay.
-5 contests at the measured 24% place rate = 75% for a paid place; 10 = 94%. No human holds 5 at once.
+5 entries at the measured 24% place rate = 75% for a paid place; 10 = 94%, and no human runs 10 at once.
 Skip: Roblox-brainrot (needs Studio), places/entries under 0.2, repo bounties with no outside PR merged in 30 days (DevPool: $27,860, /start refuses outsiders).
-Kill: under 8 paid places by day 14, rebuild the template from the rubric.
-Day 30: 60 contests, 3 entries each = 180, 24% = 43 places at $4-16 = $170-700. $1 spent, $99 safe.
+Kill: under 8 paid places by day 14, rebuild from the rubric.
+Day 30: 60 contests, 3 entries each = 180, 24% = 43 places at $4-16 = $170-700. $1 spent, $99 never at risk.
